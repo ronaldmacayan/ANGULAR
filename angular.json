@@ -95,10 +95,15 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/scripts/sidenav.js"
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "a98bf872-0e03-4df4-bc32-e1e9fc0b697e"
   }
 }
